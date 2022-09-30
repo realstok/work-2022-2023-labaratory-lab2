@@ -25,17 +25,17 @@
 # Описание реализации
 1 Задача – Маршрутное шифрование
 1 рис.
-![Код Маршрутное шифрование](report/img/Снимок экрана (123).png){ #fig:002 width=100% }
+![Код Маршрутное шифрование](https://github.com/realstok/work-2022-2023-labaratory-lab2/blob/main/report/report.md/Снимок экрана (123).png){ #fig:002 width=100% }
 2 Задача - шифрование с помощью решеток
 2 рис.
-![Код шифрование с помощью решеток](report/img/Снимок экрана (124).png){ #fig:002 width=100% }
+![Код шифрование с помощью решеток](https://github.com/realstok/work-2022-2023-labaratory-lab2/blob/main/report/report/img/Снимок экрана (124).png){ #fig:002 width=100% }
 3 Рис. 
-![Код шифрование с помощью решеток](report/img/Снимок экрана (125).png){ #fig:002 width=100% }
+![Код шифрование с помощью решеток](https://github.com/realstok/work-2022-2023-labaratory-lab2/blob/main/report/report/img/Снимок экрана (125).png){ #fig:002 width=100% }
 4 Рис. 
-![Код шифрование с помощью решеток](report/img/Снимок экрана (126).png){ #fig:002 width=100% }
+![Код шифрование с помощью решеток](https://github.com/realstok/work-2022-2023-labaratory-lab2/blob/main/report/report/img/Снимок экрана (126).png){ #fig:002 width=100% }
 3 задача – шифр Виженера
 5 рис. 
-![Код шифр Виженера](report/img/Снимок экрана (127).png){ #fig:002 width=100% }
+![Код шифр Виженера](https://github.com/realstok/work-2022-2023-labaratory-lab2/blob/main/report/report/img/Снимок экрана (127).png){ #fig:002 width=100% }
 
 Вывод
 
